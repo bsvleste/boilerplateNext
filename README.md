@@ -1,8 +1,8 @@
 
-![React Avançado](https://raw.githubusercontent.com/React-Avancado/boilerplate/master/public/img/logo-gh.svg)
+![Boilerplate](https://raw.githubusercontent.com/React-Avancado/boilerplate/master/public/img/logo-gh.svg)
 
-This is a [Next.js](https://nextjs.org/) boilerplate to be used in a course called [React Avançado](https://reactavancado.com.br/).
-![ci](https://github.com/React-Avancado/boilerplate/workflows/ci/badge.svg)
+This is a [Next.js](https://nextjs.org/) boilerplate to be used in a course called
+
 ## What is inside?
 
 This project uses lot of stuff as:
@@ -26,7 +26,11 @@ npm run dev
 # or
 yarn dev
 ```
-
+# or
+yarn create next-app -e  https://github.com/bsvleste/boilerplateNext
+# or
+npx create-next-app -e https://github.com/bsvleste/boilerplateNext
+# or
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
